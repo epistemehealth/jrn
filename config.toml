@@ -88,7 +88,7 @@ staticDir = ['static']
     [[menu.main]]
       weight = 4
       name = "Submit"
-      url = "https://epistemehealth.com/"
+      url = "https://epistemehealth.com/index.php/jrn"
     [[menu.main]]
       weight = 5
       name = "About"
