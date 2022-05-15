@@ -1,7 +1,7 @@
 +++
 Title = "About the Journal"
 Summary = "Basic information about the journal"
-Date = "2022-02-12T09:00:00+10:00"
+Date = "2022-02-16T09:00:00+10:00"
 
 canonicalurl = "https://epistemehealth.com/index.php/nab/about"
 +++
@@ -28,15 +28,13 @@ As a free open access journal, we have no intention of introducing publication o
 
 *Copyright and Licensing*
 
-Authors are asked to grant the publisher a license to be first publisher of the work and to apply an appropriate public license that enables the free use of their work for scholarly, medical research, and other non-profit or charitable purposes. Authors retain copyright and no restrictions are placed on the authors' own use of their work.
+Authors are asked to grant the publisher a license to be first publisher of the work and to apply an appropriate public license that enables the free use of their work for scholarly, medical research, and other non-profit or charitable purposes. Authors retain copyright and no restrictions are placed on the authors' own use of their work. Articles will be published under a licensing arrangement of the authors' choice, as outlined in the publisher's [Copyright and Fair Dealing policy](https://about.epistemehealth.com/policy/copyright-fair-dealing/).
 
-## Reviewer and Editor Recognition
+## Reviewer Recognition
 
-Reviewers and Editors can claim credit for their service work with external providers [Publons](https://publons.com/journal/479852/neuroanatomy-and-behaviour) (Clarivate Analytics) and [ReviewerCredits](https://www.reviewercredits.com/user/neuroanatomy-and-behavio/). Use of these external commercial services is optional.
+The journal has a profile on [Publons](https://publons.com/journal/801462/journal-for-reproducibility-in-neuroscience/) but it is currently not registered. Use of external commercial reviewer recognition services is optional.
 
-Recognition on Publons can be obtained by forwarding review acknowledgement emails and editor decision letters to the appropriate address. Editorial board memberships can be claimed by adding the [affiliation](https://publons.freshdesk.com/support/solutions/articles/12000081248-editorial-board-memberships) and emailing the journal's support [contact]({{< ref "/contact/_index.md" >}}) to verify the board membership on Publons.
-
-Recognition on ReviewerCredits requires users to login to ReviewerCredits and submit their review details. Once this is done, email the [journal's support contact]({{< ref "/contact/_index.md" >}}) so that it can be verified.
+Recognition on Publons can be obtained by forwarding review acknowledgement emails and editor decision letters to the appropriate address.
 
 ## Founding Editor
 
