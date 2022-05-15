@@ -1,7 +1,7 @@
 +++
 title = "Contact"
 summary = "Contact information for the journal"
-date = "2019-01-01T09:00:00T+10:00"
+date = "2022-05-16T09:00:00T+10:00"
 canonicalurl = "https://epistemehealth.com/index.php/jrn/about/contact"
 
 addresslines = ["Episteme Health Inc.", "","Episteme Health Inc. is an incorporated association registered in Victoria, Australia (Registration No. A0105005T). Postal and email contact details are listed below.",
@@ -14,7 +14,7 @@ addresslines = ["Episteme Health Inc.", "","Episteme Health Inc. is an incorpora
 ]
 
 principalcontact = "Shaun Khoo"
-principalaffiliation = "Département de pharmacologie et physiologie, Faculté de médecine, Université de Montréal"
+#principalaffiliation = "Episteme Health Inc."
 principalemail = "contact@epistemehealth.com"
 
 #supportcontact = "Shaun Khoo"
